@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<script type="text/javascript">
+		alert("Hello, world!");
+	</script>
 	<title>Форма1</title>
 </head>
 <body>
